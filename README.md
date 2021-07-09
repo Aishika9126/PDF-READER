@@ -1,6 +1,6 @@
 # PDF-READER
 
-Its a mini project that i inspire by google audio , In this Pdf here we can name the pdf (with extension and page no) and its starts automatically reading with the female voice default.
+Its a mini project that i made it after getting inspired by google audio , In this Pdf here! we have to name the pdf (with extension and page no) and its starts automatically reading with the female voice default.
 
 .
 .
